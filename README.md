@@ -2,6 +2,8 @@
 
 Um aplicativo React Native que celebra a cultura do rap dos anos 90, apresentando álbuns clássicos, biografias de artistas icônicos e uma galeria interativa.
 
+[Link para visualizar o Projeto](https://snack.expo.dev/@luizolvx/o-mundo-do-rap)
+
 ## Sobre o Projeto
 
 Este aplicativo foi desenvolvido para fãs de hip hop que desejam reviver a era de ouro do rap. Ele inclui:
